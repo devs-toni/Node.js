@@ -4,7 +4,8 @@
   "description": "",
   "main": "moduleExports.js",
   "scripts": {
-    "start": "node app"
+    "start": "node serverExpress",
+    "dev": "nodemon serverExpress"
   },
   "repository": {
     "type": "git",
